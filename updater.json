@@ -1,11 +1,19 @@
 {
-  "version": "0.1.1",
-  "notes": "Soressa v0.1.1 — Rediseño del encabezado de marca centrado y botón destacado de gestión de grupos.",
-  "pub_date": "2026-10-09T21:43:00Z",
+  "version": "0.1.2",
+  "notes": "Soressa v0.1.2 — Soporte multiplataforma dual nativo (Windows y macOS), buscador de actualizaciones OTA y mejoras de estabilidad.",
+  "pub_date": "2026-10-12T22:25:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eUlDa2hkV1F2VDFBVXFRWVZrTlNtZ1g3WTY5QjU1aDBma0VuRmxWMXVDRFVFT3RSV2RUeXd5eWFiSURiODdVVE1mM3lNd0VFWTRlbHh2djlISkE4a0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgyMTgxCWZpbGU6U29yZXNzYV8wLjEuMV94NjRfZW4tVVMubXNpCXZlcnNpb246MC4xLjEKSzQxSFpiRVVxV2cwc2srMnEzVDVpWjd4ZkFOVFg5dHNDY1RUWSsybjRvSEtaeTB5MGExZkpjYzV0Q0NXYWFpZlhrNk81TDZERW4rREJoNjhLOHNCRHc9PQo=",
-      "url": "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.1/Soressa_0.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eURWNXBKYXBXbE9oeFJiSEZPSFNGMHFaQzZNSVJoZlRPUDJwc3NXTk9jb214aVBjc3NOOVIvSWcrMTF4TWJkVGNCQUJsYnIrNEN5QUxsNWFBeC9vSHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODM4Njk1CWZpbGU6U29yZXNzYV8wLjEuMl94NjRfZW4tVVMubXNpCXZlcnNpb246MC4xLjIKL3oxdTYvVG01ZEQybnJIdk5BYXpyOFBPd0RPcDJIR1ZmTk5zYWRDZmpDcU9GZm9lTFhVWFp4a0cybW1XOUNsemZvUk1aMXhOTXRONzluUVRRdTNIQ0E9PQo=",
+      "url": "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.2/Soressa_0.1.2_x64_en-US.msi"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eUV3N24wZ3NaUGx5MVdZWW4rVjZEU2NLbkpPTUhVZlR4cmZIKzluc2tOU1ZkRVhtNUhmVmMwVUtaZWt2eWRvcUQ5ZU5EYVlFbTQ5VzFvM2k4ZElteFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODM4MTYzCWZpbGU6U29yZXNzYS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKejBQc2RnUHU4T2d3M3B6dTRJYWNKZzNrS241WmhTRkJlbVFUWXJqeUxTTlFLZ3REUUVnTnE3aS9CcWVOWUFrTVVQNTE0WGllRWJiclkxYnZoaGRPQ0E9PQo=",
+      "url": "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.2/Soressa.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eUV3N24wZ3NaUGx5MVdZWW4rVjZEU2NLbkpPTUhVZlR4cmZIKzluc2tOU1ZkRVhtNUhmVmMwVUtaZWt2eWRvcUQ5ZU5EYVlFbTQ5VzFvM2k4ZElteFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODM4MTYzCWZpbGU6U29yZXNzYS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKejBQc2RnUHU4T2d3M3B6dTRJYWNKZzNrS241WmhTRkJlbVFUWXJqeUxTTlFLZ3REUUVnTnE3aS9CcWVOWUFrTVVQNTE0WGllRWJiclkxYnZoaGRPQ0E9PQo=",
+      "url": "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.2/Soressa.app.tar.gz"
     }
   }
 }
