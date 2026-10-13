@@ -1,19 +1,19 @@
-﻿{
-    "platforms":  {
-                      "darwin-aarch64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eU9qVVJDemRuMFJRYW5IUUZQNStPa1hMYUdsRFdsUzU1bTg4aDZSRGxDQVlBcTQ5NWFDd3E3T1k3SG1EZU9ucnFudEpVTElGOGJMbGRKbVN6NHcyZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwMzI5CWZpbGU6U29yZXNzYS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKNjFsNk9Oa1R4YkxrY29Zb1pCajVkdjBrMXFzNlBIS2dWcXFOY2FpampGbGJlL2R4czFxZHRORitxdU15TFFBM1prblZ3UTNPQVExMXJ2NFY5cXAwREE9PQo=",
-                                             "url":  "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.3/Soressa.app.tar.gz"
-                                         },
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eUR6VTRraGZxaXlteEw5bG5aaFAzVjBrdDVGUXNtQUU0S0JPSEVwbUkzblRIVXcxaUFxMGxxZ25aaTZSc1JPc1VwUGVnOU93MHJXMGVyQzF1cTNHaXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwNzQxCWZpbGU6U29yZXNzYV8wLjEuM194NjRfZW4tVVMubXNpCXZlcnNpb246MC4xLjMKOGx6eDR5dm5BckUvQmZQVVJUMHdPMmZZbXhQcHFRZkpxTlMrUEFUdUFYSTVCTTkrczhtUVBpeFE5a0c5bStGTlczRjY5ZENpODJnU2VYWWFzSE5nRHc9PQo=",
-                                             "url":  "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.3/Soressa_0.1.3_x64_en-US.msi"
-                                         },
-                      "darwin-x86_64":  {
-                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eU9qVVJDemRuMFJRYW5IUUZQNStPa1hMYUdsRFdsUzU1bTg4aDZSRGxDQVlBcTQ5NWFDd3E3T1k3SG1EZU9ucnFudEpVTElGOGJMbGRKbVN6NHcyZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwMzI5CWZpbGU6U29yZXNzYS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKNjFsNk9Oa1R4YkxrY29Zb1pCajVkdjBrMXFzNlBIS2dWcXFOY2FpampGbGJlL2R4czFxZHRORitxdU15TFFBM1prblZ3UTNPQVExMXJ2NFY5cXAwREE9PQo=",
-                                            "url":  "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.3/Soressa.app.tar.gz"
-                                        }
-                  },
-    "pub_date":  "2026-10-13T20:03:36Z",
-    "version":  "0.1.3",
-    "notes":  "Soressa v0.1.3 - Modales con tamano fijo inmutable (FAQ, Expediente, Exportacion), menu de 3 puntos en tareas y tests, y dialogo nativo Guardar como para boletas y actas."
+{
+  "version": "0.1.3",
+  "notes": "Soressa v0.1.3 — Modales con tamaño fijo inmutable (FAQ, Expediente, Exportación), menú de 3 puntos en tareas y tests, y diálogo nativo 'Guardar como' para boletas y actas.",
+  "pub_date": "2026-10-13T20:03:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eUR6VTRraGZxaXlteEw5bG5aaFAzVjBrdDVGUXNtQUU0S0JPSEVwbUkzblRIVXcxaUFxMGxxZ25aaTZSc1JPc1VwUGVnOU93MHJXMGVyQzF1cTNHaXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwNzQxCWZpbGU6U29yZXNzYV8wLjEuM194NjRfZW4tVVMubXNpCXZlcnNpb246MC4xLjMKOGx6eDR5dm5BckUvQmZQVVJUMHdPMmZZbXhQcHFRZkpxTlMrUEFUdUFYSTVCTTkrczhtUVBpeFE5a0c5bStGTlczRjY5ZENpODJnU2VYWWFzSE5nRHc9PQo=",
+      "url": "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.3/Soressa_0.1.3_x64_en-US.msi"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eU9qVVJDemRuMFJRYW5IUUZQNStPa1hMYUdsRFdsUzU1bTg4aDZSRGxDQVlBcTQ5NWFDd3E3T1k3SG1EZU9ucnFudEpVTElGOGJMbGRKbVN6NHcyZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwMzI5CWZpbGU6U29yZXNzYS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKNjFsNk9Oa1R4YkxrY29Zb1pCajVkdjBrMXFzNlBIS2dWcXFOY2FpampGbGJlL2R4czFxZHRORitxdU15TFFBM1prblZ3UTNPQVExMXJ2NFY5cXAwREE9PQo=",
+      "url": "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.3/Soressa.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmVhcXp1bDI5eU9qVVJDemRuMFJRYW5IUUZQNStPa1hMYUdsRFdsUzU1bTg4aDZSRGxDQVlBcTQ5NWFDd3E3T1k3SG1EZU9ucnFudEpVTElGOGJMbGRKbVN6NHcyZFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTIwMzI5CWZpbGU6U29yZXNzYS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjMKNjFsNk9Oa1R4YkxrY29Zb1pCajVkdjBrMXFzNlBIS2dWcXFOY2FpampGbGJlL2R4czFxZHRORitxdU15TFFBM1prblZ3UTNPQVExMXJ2NFY5cXAwREE9PQo=",
+      "url": "https://github.com/Hurtz27/Soressa-releases/releases/download/v0.1.3/Soressa.app.tar.gz"
+    }
+  }
 }
